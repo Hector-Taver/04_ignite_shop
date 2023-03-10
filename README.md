@@ -25,6 +25,7 @@ O Ignite Shop é uma aplicação de e-commerce para venda de camisetas com estam
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Next.js
+- Stitches
 - Stripe
 
 ## 🚀 Como executar
